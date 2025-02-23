@@ -3,8 +3,8 @@ import json
 
 ''' Fill in the following information '''
 # General information
-YOUR_EMAIL = "hilda0618@gmail.com" # <put your coursera account email>,
-#I used my personal email for coursera, my Illinois email is hildal2@illinois.edu
+YOUR_EMAIL = "some email" # <put your coursera account email>,
+#I used my personal email for coursera, my Illinois email is xxxx@illinois.edu
 
 YOUR_SECRET = "IUEqBZfLXqYjGS26" # <put your secret token from coursera>
 
